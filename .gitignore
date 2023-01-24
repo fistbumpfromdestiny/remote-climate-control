@@ -1,0 +1,5 @@
+iot_configs.h
+debug_custom.json
+debug.cfg
+.vscode/c_cpp_properties.json
+esp32c3.svd
